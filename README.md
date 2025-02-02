@@ -1,5 +1,6 @@
 # Decentralised-Land-Registry-System
 Project Overview
+
 The Decentralized Land Registry System is a blockchain-based solution designed to provide a transparent, secure, and immutable way to register and transfer land ownership. Built using Solidity on the Ethereum blockchain, this smart contract eliminates the need for intermediaries, reduces fraud, and ensures a trustworthy record-keeping system for land ownership.
 
 Project Objectives
